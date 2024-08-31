@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any questions or suggestions, please reach out via 
+For any questions or suggestions, please reach out via LinkedIn; https://www.linkedin.com/in/michael-ologungbara-a83626251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
